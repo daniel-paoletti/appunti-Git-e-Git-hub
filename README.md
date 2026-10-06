@@ -12,3 +12,10 @@ tenere traccia delle modifiche, archiviare la cronologia
 delle revisioni e collaborare con altri utenti
 
 #### come creare un repository?
+se si ha installato il programma `git` nel propio  
+*computer*,si può invocare il programma da riga da comando(*shell* o *prompt* o *terminale*),si usa:
+
+```sh
+git init
+```
+il comando crea una *directrory* (cartella)di nome `git` che conterrà tutte le informazioni sul progetto
